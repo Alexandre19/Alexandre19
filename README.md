@@ -1,7 +1,7 @@
 ### OLÁ! Eu sou o Alexandre Borges 👋
 
 - 🔭 Hoje trabalho como Desenvolvedor de Software e Copywriter.
-- 🌱 Estudando Java e Spring Boot.
+
 
 <div align="center">
   <a href="https://github.com/alexandre19">
