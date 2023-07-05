@@ -1,6 +1,6 @@
 ### OLÁ! Eu sou o Alexandre Borges 👋
 
-- 🔭 Hoje trabalho como Desenvolvedor de Software e Copywriter.
+- 🔭 Hoje trabalho como Analista de Testes de Software QA.
 
 
 <div align="center">
