@@ -1,6 +1,6 @@
-### OLÁ! Eu sou o Alexandre Borges 👋
+### Hello! I'm Alexandre Borges. 👋
 
-- 🔭 Hoje trabalho como Analista de Testes de Software QA.
+- 🔭 I currently work as a Software Implementation Consultant and am learning Python..
 
 
 <div align="center">
