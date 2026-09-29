@@ -1,6 +1,6 @@
 ### Hello! I'm Alexandre Borges. 👋
 
-- 🔭 I currently work as a Software Implementation Consultant and am learning Python..
+- 🔭 Exploring Business Analysis, Project Management and Data Analytics | SQL | Python | Power BI
 
 
 <div align="center">
